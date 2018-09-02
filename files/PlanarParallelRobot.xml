@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN" "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
+<!ENTITY sect-004 SYSTEM "./PlanarParallelRobot_html_files/image-003-sect1.xfrag">
+<!ENTITY sect-003 SYSTEM "./PlanarParallelRobot_html_files/image-002-chapter.xfrag">
+<!ENTITY sect-006 SYSTEM "./PlanarParallelRobot_html_files/image-005-chapter.xfrag">
+<!ENTITY sect-005 SYSTEM "./PlanarParallelRobot_html_files/image-004-ignore.xfrag">
+<!ENTITY sect-002 SYSTEM "./PlanarParallelRobot_html_files/image-000-ignore.xfrag">
+]>
+<book lang="en">
+<?dbhtml filename="PlanarParallelRobot.html"?>
+&sect-002;</book>
